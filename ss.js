@@ -1,2 +1,2 @@
 #! /usr/bin/env node
-console.log("it works!")
+console.log("No commands yet. Come back tomorrow.")
